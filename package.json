@@ -23,6 +23,7 @@
   "dependencies": {
     "node-uuid": "^1.4.8",
     "underscore": "^1.13.6",
+    "uuid": "^13.0.0",
     "xml2js": "^0.6.2"
   }
 }
