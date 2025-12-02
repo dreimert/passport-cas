@@ -3,7 +3,7 @@ import url from 'url';
 import http from 'http';
 import https from 'https';
 import { parseString } from 'xml2js';
-import * as processors from 'xml2js/lib/processors';
+import * as processors from 'xml2js/lib/processors.js';
 import passport from 'passport';
 import { v4 as uuidv4 } from 'uuid';
 import util from 'util';
